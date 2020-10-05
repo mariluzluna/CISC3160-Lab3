@@ -2,8 +2,8 @@
 Pseudocode - Weather App 
 	
 `for user enter city/state:`
-	if user enter a correct city/state
 	
+	if user enter a correct city/state
 		Print out the current weather , where the city is from , which state 
 		and how weather actually feels like
 	Else
