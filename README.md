@@ -11,12 +11,14 @@ Pseudocode - Weather App
 
 Pseudocode - Check-Out List 
 
+
 `user will add items to the list :
-	For user enter item to list :
+	For user enter item to list :`
 	
 	if user enter item and press button add
 		Add item to the list orderly 
 	else 
 		An alert message will appear to allow user to know they did not  enter an input
+		
 
-Can delete/check items on list once complete or enter an error to the list`
+	`Can delete/check items on list once complete or enter an error to the list`
