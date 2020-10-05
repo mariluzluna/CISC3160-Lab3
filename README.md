@@ -11,8 +11,9 @@ Pseudocode - Weather App
 
 Pseudocode - Check-Out List 
 
-`User will add items to the list :
+`user will add items to the list :
 	For user enter item to list :
+	
 	if user enter item and press button add
 		Add item to the list orderly 
 	else 
