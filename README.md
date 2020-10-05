@@ -1,4 +1,8 @@
 # CISC3160-Lab3
+I worked on two projects , a weather and check-out list. I create the weather project with python using tkinter and requesting an API . On the check-out list, it was done by using javascript , html and css.
+
+
+
 Pseudocode - Weather App 
 	
 `for user enter city/state:`
