@@ -1,5 +1,5 @@
 # CISC3160-Lab3
-Pseudocode - Weather App
+Pseudocode - Weather App `\n`
 	`for user enter city/state:`
 
 	if user enter a correct city/state
